@@ -35,6 +35,7 @@ module.exports = () => {
         name: 'J.A.T.E',
         short_name: 'Text editor',
         description: 'Just another text editor',
+        display: 'standalone',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
